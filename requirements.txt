@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+python-dotenv
+pyspark
+numpy
+scikit-learn
+catboost
+torch
+torchvision
+torchaudio
+pyarrow
